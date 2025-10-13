@@ -38,8 +38,8 @@ Me gusta crear, analizar y entender cómo la tecnología puede mejorar nuestro d
 - 🎓 Estudiante en la **Universidad Andrés Bello**  
 - 🤖 Interesado en proyectos de **Inteligencia Artificial y Machine Learning Aplicado**  
 - 💡 Busco generar impacto combinando **datos y creatividad**  
-- 🌍 Idiomas: Español 🇨🇱 (nativo) | Inglés 🇨🇦 (avanzado)  
-- 🎮 Hobbies: videojuegos, anime (*One Piece forever*), música y café ☕
+- 🌍 Idiomas: Español (nativo) | Inglés (avanzado)  
+- 🎮 Hobbies: videojuegos, anime (*One Piece*), figuras
 
 ---
 
