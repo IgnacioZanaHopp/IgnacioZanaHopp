@@ -2,7 +2,7 @@
 
 # Hola 👋 soy Nacho, pero también
 
-Estudiante de Ingeniería en Computación e Informática  
+Ingeniero en Computación e Informática  
 Apasionado por la Ciencia de Datos, la Inteligencia Artificial y el desarrollo de soluciones con impacto real.  
 Me gusta crear, analizar y entender cómo la tecnología puede mejorar nuestro día a día.
 
